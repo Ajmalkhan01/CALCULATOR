@@ -1,6 +1,6 @@
 # Calculator
 
-![Calculator Demo](assets/images/demo.png)
+![Calculator Demo](assets/images/Demo.png)
 
 A simple calculator web application with light and dark mode themes.
 
